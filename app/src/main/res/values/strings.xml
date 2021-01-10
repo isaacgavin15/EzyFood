@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MainMenu</string>
+    <string name="MainMenu_title">EzyFoody</string>
+    <string-array name="drinks">
+        <item>Mineral Water</item>
+        <item>Orange Juice</item>
+        <item>Boba Milk Tea</item>
+        <item>Beer</item>
+        <item>Chocolate Milk</item>
+        <item>Canned Soda</item>
+    </string-array>
+
+    <integer-array name="price">
+        <item>5000</item>
+        <item>18000</item>
+        <item>25000</item>
+        <item>18000</item>
+        <item>24000</item>
+        <item>14000</item>
+    </integer-array>
+</resources>
